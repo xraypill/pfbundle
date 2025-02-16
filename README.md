@@ -111,7 +111,7 @@ Make sure the file is correctly formatted and is a square image for the best dis
 Once everything is configured, start the process:  
 
 ```sh
-npm start
+node start.js
 ```
 
 The bot will:  
