@@ -1,0 +1,46 @@
+{
+    "name": "Name Of The Token",
+    "ticker": "TICKER",
+    "description": "Description of the token",
+    "x": "https://x.com_link_to_x",
+    "tg": "https://t.me/link_to_tg",
+    "web": "https://website.com",
+    "dev": "PRIVATE_KEY_OF_DEV",
+    "buyers": [
+        "PRIVATE_KEY_OF_BUYER",
+        "PRIVATE_KEY_OF_BUYER",
+        "PRIVATE_KEY_OF_BUYER",
+        "PRIVATE_KEY_OF_BUYER",
+        "PRIVATE_KEY_OF_BUYER",
+        "PRIVATE_KEY_OF_BUYER",
+        "PRIVATE_KEY_OF_BUYER",
+        "PRIVATE_KEY_OF_BUYER",
+        "PRIVATE_KEY_OF_BUYER",
+        "PRIVATE_KEY_OF_BUYER",
+        "PRIVATE_KEY_OF_BUYER",
+        "PRIVATE_KEY_OF_BUYER",
+        "PRIVATE_KEY_OF_BUYER",
+        "PRIVATE_KEY_OF_BUYER",
+        "PRIVATE_KEY_OF_BUYER"
+    ],
+    "solValues": [
+        "0.5",
+        "0.5",
+        "0.5",
+        "0.5",
+        "0.5",
+        "0.5",
+        "0.5",
+        "0.5",
+        "0.5",
+        "0.5",
+        "0.5",
+        "1",
+        "1",
+        "1",
+        "1"
+    ],
+    "mintKeypairs": [
+        "[133,103,71,25,212,130,167,3,143,157,18,193,92,234,142,235,100,24,113,241,177,55,107,7,227,91,160,25,24,61,162,2,9,155,206,172,164,57,164,171,74,6,255,133,253,94,135,45,94,224,126,1,212,156,92,72,175,192,80,182,67,202,177,95]"
+    ]
+}
